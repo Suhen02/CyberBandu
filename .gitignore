@@ -1,0 +1,6 @@
+venv
+*.pth
+model.pth
+*.log
+__pycache__/
+*.sqlite3
